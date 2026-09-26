@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+.DS_Store
+*.tar.gz
+openvino_src/
+ncs2_env/
